@@ -8,16 +8,33 @@ img {
   width: 700px;
 }
 
+img.food {
+  height: 50%;
+  width: auto;
+}
+
 ul {
   list-style-position: inside;
 }
 
+ol {
+  list-style-position: inside;
+}
+
 .heading.text {
-  font-size: 50px;
   color: #E3B261;
+  font-size: 50px;
+}
+
+#recipe-title {
+  color: black;
 }
 
 .text {
   font-family: Helvetica, "Lucida Console", sans0-serif;
   font-size: 25px;
+}
+
+.finer-text {
+  font-size: 18px;
 }
