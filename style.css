@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: #F5F5F5;
+}
+
+img {
+  height: auto;
+  width: 700px;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+.heading.text {
+  font-size: 50px;
+  color: #E3B261;
+}
+
+.text {
+  font-family: Helvetica, "Lucida Console", sans0-serif;
+  font-size: 25px;
+}
